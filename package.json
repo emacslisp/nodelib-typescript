@@ -1,0 +1,20 @@
+{
+  "name": "nodelib-typescript",
+  "version": "1.0.0",
+  "description": "put nodelib typescript code here",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emacslisp/nodelib-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emacslisp/nodelib-typescript/issues"
+  },
+  "homepage": "https://github.com/emacslisp/nodelib-typescript#readme"
+}
